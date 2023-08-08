@@ -9,7 +9,7 @@ const Modal = () => {
       <div className="modal card">
         <h2 className="title">
             <IoMdClose className='close' />
-            <span>asdasdasdasdasd</span>
+            <p>CEP: </p>
         </h2>
       </div>
     </div>
