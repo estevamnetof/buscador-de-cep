@@ -1,6 +1,6 @@
 # Buscador de CEP
 
-Projeto feito em React para treinamento, projeto também feito em JavaScript
+Projeto feito em React para treinamento, reprogramando um projeto antes feito em JavaScript
 
 ## 🔗 Links
 JS: https://estevamnetof.github.io/javascript/projetos/buscador-cep/
